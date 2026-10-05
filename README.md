@@ -128,6 +128,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
+| [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) | Cross-market product search and price comparison MCP (300M+ products) for shopping/spend agents | Free | ![GitHub stars](https://img.shields.io/github/stars/BuyWhere/buywhere-mcp?style=flat) |
 
 ---
 
